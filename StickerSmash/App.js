@@ -9,8 +9,6 @@ import domtoimage from 'dom-to-image';
 
 
 
-
-
 import Button from './components/Button';
 import ImageViewer from './components/ImageViewer'; 
 import CircleButton from './components/CircleButton';
